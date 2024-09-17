@@ -31,3 +31,6 @@ The line plot of tumor volume vs. time point for a single mouse treated with Cap
 The box plot analysis identified a potential outlier in the Infubinol treatment group, indicating a data point that significantly deviates from the rest of the data. Identifying and understanding outliers is crucial for ensuring the reliability and accuracy of the study results. Further investigation into this outlier may be necessary to determine if it's due to experimental error or other factors.
 
 Overall, these observations provide valuable insights into the effectiveness of different drug regimens in reducing tumor volume in mice, the importance of balanced gender representation in studies, and the relationship between mouse weight and tumor volume.
+
+**Widchy Joachim**
+*Data Analyst*
